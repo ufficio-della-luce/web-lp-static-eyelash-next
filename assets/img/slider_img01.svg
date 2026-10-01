@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500.992" height="553.231" viewBox="0 0 500.992 553.231">
+  <g id="グループ_115" data-name="グループ 115" transform="translate(-241.874 -7042.904)">
+    <rect id="長方形_22" data-name="長方形 22" width="500" height="500" transform="translate(242.37 7095.639)" fill="#fff" stroke="#dbd7cf" stroke-miterlimit="10" stroke-width="0.992"/>
+    <circle id="楕円形_2" data-name="楕円形 2" cx="57.31" cy="57.31" r="57.31" transform="translate(435.06 7042.904)" fill="#dbd7cf"/>
+    <text id="_01" data-name="01" transform="translate(491.006 7121.367)" fill="#fff" font-size="31" font-family="DINAlternate-Bold, DIN Alternate" font-weight="700" letter-spacing="0.088em"><tspan x="-16.243" y="0">01</tspan></text>
+    <text id="step" transform="translate(492.37 7090.367)" fill="#fff" font-size="19" font-family="DINAlternate-Bold, DIN Alternate" font-weight="700"><tspan x="-16.88" y="0">step</tspan></text>
+    <g id="グループ_92" data-name="グループ 92">
+      <g id="グループ_87" data-name="グループ 87">
+        <path id="パス_90" data-name="パス 90" d="M536.02,7300.3c-8.913,12.263-29.133,17.438-47.3,17.783-20.235-.162-35.081-7.26-48.634-16.621" fill="none" stroke="#241d1b" stroke-miterlimit="10" stroke-width="5.656"/>
+        <path id="パス_91" data-name="パス 91" d="M499.915,7318.664c1.067,8.545,3.48,16.241,9.681,22.487" fill="none" stroke="#241d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.828"/>
+        <path id="パス_92" data-name="パス 92" d="M505.757,7316.525c2.615,10.217,11.215,17.173,19.546,23.254" fill="none" stroke="#241d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.828"/>
+        <path id="パス_93" data-name="パス 93" d="M514.578,7314.239a26.031,26.031,0,0,0,24.655,16.718" fill="none" stroke="#241d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.828"/>
+        <path id="パス_94" data-name="パス 94" d="M522.722,7311.57c3.751,9.279,20.4,11.5,29.162,10.6" fill="none" stroke="#241d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.828"/>
+        <path id="パス_95" data-name="パス 95" d="M448.035,7308.28a17.613,17.613,0,0,1-14.818,3.054" fill="none" stroke="#241d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.828"/>
+        <path id="パス_96" data-name="パス 96" d="M528.715,7307.611c6.767,6.111,17.757,5.971,26.851,6" fill="none" stroke="#241d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.828"/>
+        <path id="パス_97" data-name="パス 97" d="M491.834,7318.627c.6,8.592-.279,16.611-5.157,23.935" fill="none" stroke="#241d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.828"/>
+        <path id="パス_98" data-name="パス 98" d="M483.337,7317.476c-.592,10.528-7.686,19.017-14.686,26.59" fill="none" stroke="#241d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.828"/>
+        <path id="パス_99" data-name="パス 99" d="M474.416,7317.329a26.028,26.028,0,0,1-20.958,21.166" fill="none" stroke="#241d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.828"/>
+        <path id="パス_100" data-name="パス 100" d="M466.363,7314.8c-1.77,9.2-16.655,14.238-24.873,15" fill="none" stroke="#241d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.828"/>
+        <path id="パス_101" data-name="パス 101" d="M455.723,7312.209c-5.059,6.771-15.087,8.61-23.351,10.264" fill="none" stroke="#241d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.828"/>
+      </g>
+      <g id="グループ_88" data-name="グループ 88">
+        <path id="パス_102" data-name="パス 102" d="M583.437,7319.692c-10.913,0-13.851,2.939-13.851,13.853,0-10.914-2.938-13.852-13.851-13.853,10.913,0,13.851-2.937,13.851-13.851C569.586,7316.755,572.524,7319.693,583.437,7319.692Z" fill="none" stroke="#7c7c7c" stroke-miterlimit="10" stroke-width="1.202"/>
+      </g>
+      <g id="グループ_89" data-name="グループ 89">
+        <path id="パス_103" data-name="パス 103" d="M429.008,7313.912c-10.914,0-13.853,2.938-13.855,13.85,0-10.912-2.936-13.85-13.851-13.85,10.915,0,13.853-2.938,13.851-13.851C415.155,7310.974,418.094,7313.912,429.008,7313.912Z" fill="none" stroke="#7c7c7c" stroke-miterlimit="10" stroke-width="1.202"/>
+      </g>
+      <g id="グループ_90" data-name="グループ 90">
+        <path id="パス_104" data-name="パス 104" d="M465.12,7357.811c-8.02,0-10.179,2.158-10.179,10.177,0-8.019-2.16-10.178-10.18-10.177,8.02,0,10.18-2.16,10.18-10.179C454.941,7355.651,457.1,7357.81,465.12,7357.811Z" fill="none" stroke="#7c7c7c" stroke-miterlimit="10" stroke-width="1.202"/>
+      </g>
+      <g id="グループ_91" data-name="グループ 91">
+        <path id="パス_105" data-name="パス 105" d="M559.9,7289.746c-8.02,0-10.18,2.158-10.18,10.177,0-8.019-2.159-10.178-10.179-10.177,8.02,0,10.179-2.16,10.179-10.179C549.718,7287.586,551.878,7289.745,559.9,7289.746Z" fill="none" stroke="#7c7c7c" stroke-miterlimit="10" stroke-width="1.202"/>
+      </g>
+    </g>
+    <text id="朝晩_洗顔後_清潔な肌にご使用ください_" data-name="朝晩 洗顔後、
+清潔な肌にご使用ください。" transform="translate(492.37 7210.527)" fill="#636464" font-size="22" font-family="YuGo-Bold, YuGothic" font-weight="700"><tspan x="-69.135" y="0">朝晩 洗顔後、</tspan><tspan x="-143" y="32">清潔な肌にご使用ください。</tspan></text>
+    <text id="POINT" transform="translate(491.169 7409.123)" fill="#636464" font-size="16.235" font-family="DINAlternate-Bold, DIN Alternate" font-weight="700" letter-spacing="0.148em" opacity="0.8"><tspan x="-26.272" y="0">POINT</tspan></text>
+    <rect id="長方形_23" data-name="長方形 23" width="362" height="95" transform="translate(311.37 7424.501)" fill="#d8d4c8"/>
+    <line id="線_7" data-name="線 7" x2="58.096" transform="translate(463.322 7415.806)" fill="none" stroke="#241d1b" stroke-miterlimit="10" stroke-width="0.748"/>
+    <text id="クリームや油分を含む_スキンケア前の使用がおすすめです_" data-name="クリームや油分を含む
+スキンケア前の使用がおすすめです。" transform="translate(492.37 7466.492)" fill="#636464" font-size="16" font-family="YuGo-Bold, YuGothic" font-weight="700"><tspan x="-79.6" y="0">クリームや油分を含む</tspan><tspan x="-135.04" y="22">スキンケア前の使用がおすすめです。</tspan></text>
+    <text id="_美容液が乾くまで目をこすらないようにしてください_" data-name="※美容液が乾くまで目をこすらないようにしてください。" transform="translate(492.37 7540.397)" fill="#636464" font-size="14" font-family="Helvetica"><tspan x="-178.458" y="0">※</tspan><tspan y="0" font-family="HiraginoSans-W3, Hiragino Sans">美容液が乾くまで目をこすらないようにしてください。</tspan></text>
+  </g>
+</svg>
